@@ -1,0 +1,31 @@
+{
+  "resorts" : [
+    {
+      "name" : "Zermatt",
+      "webcams" : [
+        {
+          "url" : "https:\/\/zermatt.roundshot.com\/gornergrat\/#\/",
+          "name" : "Gornergrat"
+        },
+        {
+          "url" : "https:\/\/zbag.roundshot.com\/trockener-steg\/",
+          "name" : "Trockener Steg"
+        },
+        {
+          "url" : "https:\/\/zbag.roundshot.com\/matterhornglacierparadise\/",
+          "name" : "Klein Matterhorn"
+        },
+        {
+          "url" : "https:\/\/zbag.roundshot.com\/rothorn\/",
+          "name" : "Rothorn"
+        }
+      ],
+      "logo" : "https:\/\/zermatt.swiss\/_ipx\/f_webp&s_186x140\/images\/logo.png",
+      "lift" : {
+        "skiMap" : "https:\/\/infosnow.ch\/~apgmontagne\/?id=174&tab=map-wi&lang=de&zoom=950,400,300,300",
+        "snowReport" : "https:\/\/www.matterhornparadise.ch\/de\/erleben\/skifahren\/pistenplan"
+      },
+      "website" : "https:\/\/matterhornparadise.ch\/de"
+    }
+  ]
+}

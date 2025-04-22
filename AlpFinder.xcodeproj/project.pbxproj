@@ -12,6 +12,8 @@
 		A298AC952BA5BD3B0004EFBC /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = A298AC942BA5BD3B0004EFBC /* Item.swift */; };
 		A298AC972BA5BD3C0004EFBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A298AC962BA5BD3C0004EFBC /* Assets.xcassets */; };
 		A298AC9B2BA5BD3C0004EFBC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A298AC9A2BA5BD3C0004EFBC /* Preview Assets.xcassets */; };
+		A298ACA22BA5BD560004EFBC /* SkiData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A298ACA12BA5BD560004EFBC /* SkiData.swift */; };
+		A298ACA42BA5C27E0004EFBC /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A298ACA32BA5C27E0004EFBC /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A298AC962BA5BD3C0004EFBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A298AC982BA5BD3C0004EFBC /* AlpFinder.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AlpFinder.entitlements; sourceTree = "<group>"; };
 		A298AC9A2BA5BD3C0004EFBC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A298ACA12BA5BD560004EFBC /* SkiData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkiData.swift; sourceTree = "<group>"; };
+		A298ACA32BA5C27E0004EFBC /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				A298AC902BA5BD3B0004EFBC /* AlpFinderApp.swift */,
 				A298AC922BA5BD3B0004EFBC /* ContentView.swift */,
+				A298ACA32BA5C27E0004EFBC /* WebView.swift */,
 				A298AC942BA5BD3B0004EFBC /* Item.swift */,
 				A298AC962BA5BD3C0004EFBC /* Assets.xcassets */,
 				A298AC982BA5BD3C0004EFBC /* AlpFinder.entitlements */,
 				A298AC992BA5BD3C0004EFBC /* Preview Content */,
+				A298ACA12BA5BD560004EFBC /* SkiData.swift */,
 			);
 			path = AlpFinder;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A298AC932BA5BD3B0004EFBC /* ContentView.swift in Sources */,
+				A298ACA42BA5C27E0004EFBC /* WebView.swift in Sources */,
+				A298ACA22BA5BD560004EFBC /* SkiData.swift in Sources */,
 				A298AC952BA5BD3B0004EFBC /* Item.swift in Sources */,
 				A298AC912BA5BD3B0004EFBC /* AlpFinderApp.swift in Sources */,
 			);
